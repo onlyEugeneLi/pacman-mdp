@@ -27,3 +27,26 @@
 
 # pacman-mdp
 
+The Value-iteration Algorithm is the essential engine to support Pac-Man assess situations and make most benetficial decision at each step.
+
+## Algorithm Development
+
+### Without Learning
+
+<img src="images/pacman-random-small.gif" width="250"/>
+
+<img src="images/pacman-random.gif" width="550"/>
+
+### With Learned Reward Function
+
+A simple environment
+
+<img src="images/pacman-mdp-small.gif" width="250"/>
+
+A complete environment
+
+<img src="images/pacman-greedy.gif" width="550"/>
+
+### With a comprehensive Learning and Rewarding Mechanism
+
+<img src="images/pacman-mdp.gif" width="550"/>
