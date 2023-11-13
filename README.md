@@ -27,7 +27,7 @@
 
 # pacman-mdp
 
-The Value-iteration Algorithm is the essential engine to support Pac-Man assess situations and make most benetficial decision at each step.
+The Value-iteration Algorithm is the essential engine to support Pac-Man assessing situations and making most benetficial decision at each step.
 
 ## Algorithm Development
 
